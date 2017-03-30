@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [{{ page.title }}]({{ page.url }})
+## {{ page.title }}
 ###### {{ page.date | date_to_string }}
 {{ page.content }}
 
