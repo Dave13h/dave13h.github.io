@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## {{ page.title }}
-###### {{ page.date | date_to_string }}
+<h1>{{ page.title }}</h1>
+<h6>{{ page.date | date_to_string }}</h6>
 {{ page.content }}
 
-[&laquo;back](https://dave13h.github.io)
+<a href="https://dave13h.github.io">&laquo;back</a>
