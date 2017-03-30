@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "_"Rendering is hard"_"
+title: "_Rendering is hard_"
 date: 2017-03-30
 ---
 
