@@ -3,6 +3,7 @@ description:
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-slate
+permalink: /:year/:month/:day/:title
 
 gems:
   - jekyll-mentions
