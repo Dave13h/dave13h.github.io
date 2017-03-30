@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "_Rendering is hard_"
 date: 2017-03-30
 ---
