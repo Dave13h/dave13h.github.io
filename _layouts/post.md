@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
+<h2>{{ page.title }}</h2>
 <h6>{{ page.date | date_to_string }}</h6>
 {{ page.content }}
 
