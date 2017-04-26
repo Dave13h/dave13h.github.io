@@ -24,8 +24,6 @@ Sprinkle some interpolation between animation frames and BLAM! We have some anim
 
 Oh, did you want to blend between multiple animations, yeah that works too :)
 
-[![Oh hai](https://img.youtube.com/vi/JTI-N7MZga0/0.jpg)](http://www.youtube.com/watch?v=JTI-N7MZga0)
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/JTI-N7MZga0" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 Let's see what is next on the things I want to implement but don't understand list.
-
-<a href="#">hmm</a>
