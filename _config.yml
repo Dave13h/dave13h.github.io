@@ -8,3 +8,4 @@ permalink: /:year/:month/:day/:title
 gems:
   - jekyll-mentions
   - jekyll-feed
+  - jekyll-seo-tag
